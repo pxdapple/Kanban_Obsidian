@@ -1,0 +1,282 @@
+{
+  "main": {
+    "id": "14d49a1668aabb2f",
+    "type": "split",
+    "children": [
+      {
+        "id": "7bae43ab260555df",
+        "type": "split",
+        "children": [
+          {
+            "id": "2782d2002d681a06",
+            "type": "split",
+            "dimension": 54.22077922077923,
+            "children": [
+              {
+                "id": "2a857d241efef14e",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "0910fa096fd422ea",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Working-Areas/日报/2013-10-11.md",
+                        "mode": "source",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "930d562894e8b3ad",
+                "type": "tabs",
+                "children": [
+                  {
+                    "id": "2b68e72d356e8268",
+                    "type": "leaf",
+                    "state": {
+                      "type": "canvas",
+                      "state": {
+                        "file": "Working-Areas/兴储世纪项目看板/项目重要节点.canvas",
+                        "viewState": {
+                          "x": -780,
+                          "y": -743.5,
+                          "zoom": -1.1806036300690037
+                        }
+                      }
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          },
+          {
+            "id": "4876cc82d621c6a7",
+            "type": "split",
+            "dimension": 45.77922077922078,
+            "children": [
+              {
+                "id": "ead538523f1dc88f",
+                "type": "tabs",
+                "dimension": 56.87361419068737,
+                "children": [
+                  {
+                    "id": "3c0b3a7f4a42de22",
+                    "type": "leaf",
+                    "state": {
+                      "type": "markdown",
+                      "state": {
+                        "file": "Working-Areas/重要会议记录/2023-10-11 厂房规划会议.md",
+                        "mode": "preview",
+                        "source": false
+                      }
+                    }
+                  }
+                ]
+              },
+              {
+                "id": "80ecf22138aa4480",
+                "type": "tabs",
+                "dimension": 43.12638580931263,
+                "children": [
+                  {
+                    "id": "3570685311ea201f",
+                    "type": "leaf",
+                    "state": {
+                      "type": "graph",
+                      "state": {}
+                    }
+                  }
+                ]
+              }
+            ],
+            "direction": "vertical"
+          }
+        ],
+        "direction": "horizontal"
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0648c1c8cc09f128",
+    "type": "split",
+    "children": [
+      {
+        "id": "7098c19faf4fdb74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3465cf9dd74a2adc",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "3f7c836dfd044900",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "801909df9c5263c5",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          },
+          {
+            "id": "2c311a953db7b4fc",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d340c3c0df904185",
+    "type": "split",
+    "children": [
+      {
+        "id": "32004b509aace71c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b85ae35cce08b518",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Working-Areas/日报/2013-10-11.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "1f56ce13dea9c722",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Working-Areas/日报/2013-10-11.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "94401c88d6a7a2e4",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "61164d6c2dec16c7",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Working-Areas/日报/2013-10-11.md"
+              }
+            }
+          },
+          {
+            "id": "d8549c8fccd851bc",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "16bdf14b8985b173",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:打开快速切换": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "table-editor-obsidian:Advanced Tables Toolbar": false,
+      "obsidian-day-planner:Week plan": false,
+      "obsidian-excalidraw-plugin:新建绘图文件": false,
+      "templater-obsidian:Templater": false,
+      "graph:查看关系图谱": false
+    }
+  },
+  "active": "3465cf9dd74a2adc",
+  "lastOpenFiles": [
+    "Working-Areas",
+    "Working-Areas/日规划/2023-10-12.md",
+    "Working-Areas/日报/2013-10-11.md",
+    "Working-Areas/日规划/2023-10-11.md",
+    "Working-Areas/模板库/@today日报.md",
+    "Working-Areas/兴储世纪项目看板/项目重要节点.canvas",
+    "Working-Areas/模板库/会议记录.md",
+    "Working-Areas/重要会议记录/2023-10-11 厂房规划会议.md",
+    "Working-Areas/重要会议记录",
+    "文本笔记/Drawing 2023-10-09 15.54.46.excalidraw.md",
+    "Working-Areas/模板库",
+    "Working-Areas/日报",
+    "Working-Areas/日规划",
+    "README.md",
+    "Working-Areas/思维框架/Muyao-Softbrush-2.ttf",
+    "Excalidraw/YaoRuanBiShouXieTi/YaoRuanBiShouXieTi/字由客户端.url",
+    "Excalidraw/YaoRuanBiShouXieTi/YaoRuanBiShouXieTi/Muyao-Softbrush-2.ttf",
+    "Excalidraw/YaoRuanBiShouXieTi/YaoRuanBiShouXieTi",
+    "Excalidraw/YaoRuanBiShouXieTi",
+    "Excalidraw/YaoRuanBiShouXieTi.zip",
+    "兴储世纪项目看板/项目风险清单.md",
+    "未命名.md",
+    "未命名 1.canvas"
+  ]
+}
